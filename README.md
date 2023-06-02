@@ -1,1 +1,1 @@
-# uboot-hannah
+# freeboot-hannah
